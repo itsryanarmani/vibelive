@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/vibelive",
+  "name": "io.github.itsryanarmani/vibelive",
   "description": "Multiplayer for agentic coding terminals: live cursors, presence, chat.",
   "version": "0.2.2",
   "repository": {
